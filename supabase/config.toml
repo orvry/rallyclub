@@ -1,0 +1,3 @@
+# Public read-only legal pages. No user JWT is needed to read these documents.
+[functions.rally-club-legal]
+verify_jwt = false
